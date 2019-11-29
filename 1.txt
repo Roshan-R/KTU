@@ -1,0 +1,17 @@
+Regulations - https://ktu.edu.in/data/b.tech_regulation.pdf
+Curriculum - https://ktu.edu.in/data/curriculum_S1_S2.pdf
+Basics of Civil and Mechanical - https://ktu.edu.in/data/basic_civil_&_mechanical.pdf
+Basics of Elecrical and electrical - https://ktu.edu.in/data/basics_of_electrical_and_electronics.pdf
+Civil and Mechworkshop - https://ktu.edu.in/data/civil_&_%20mech_workshop.pdf
+C Programming - https://ktu.edu.in/data/c_programming.pdf
+Electrical and Electronics Workshop - https://ktu.edu.in/data/electrical_and_electronics_workshop.pdf
+Engineering Graphics - https://ktu.edu.in/data/engg_graphics.pdf
+Engineering Mechanics - https://ktu.edu.in/data/engg_mechanics.pdf
+Engineering Chemistry - https://ktu.edu.in/data/engineering_chemistry_Lab.pdf
+Engineering Physics A - https://ktu.edu.in/data/engineering_physics_A.pdf
+Engineering Physics B - https://ktu.edu.in/data/engineering_physics_B.pdf
+Engineering Physics Lab - https://ktu.edu.in/data/engineering_physics_lab.pdf
+Linear Algebra - https://ktu.edu.in/data/linear_algebra.pdf
+Vector Calculus - https://ktu.edu.in/data/differential_equation.pdf
+Life Skills - https://ktu.edu.in/data/life_skills.pdf
+Professional Communication - https://ktu.edu.in/data/professional_communication.pdf
