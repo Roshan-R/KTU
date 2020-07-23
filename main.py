@@ -13,8 +13,12 @@ def extract(sem):
                 dictionary[data[0]] = data[1]
         return dictionary
     except:
-        print("There is no file like this")
-        main()
+        if sem.isdigit and int(sem) in range(2,8):
+            print("This sem is not supported for now :( ")
+            exit()
+        else:
+            print("Please enter a valid sem number")
+            exit()
 
 def main():      
     print("Welcome to the KTU python asssist tool!")
@@ -28,15 +32,18 @@ def main():
             x += 1
         num = int(input("\nEnter the number : "))
     nnum = 1
-    for key,value in dictionary.items():
-        if num == nnum:
-            download(key,value)
-            break
-        else:
-            nnum += 1
+    if num > len(dictionary):
+        print("enter a valid number")
+        exit()
+    else:
+        for key,value in dictionary.items():
+            if num == nnum:
+                download(key,value)
+                break
+            else:
+                nnum += 1
 
 def download(name,url):
-
     location =  name.replace(' ','_') + '.pdf'
     r = requests.get(url, stream=True)
     with open(location, 'wb') as f:
